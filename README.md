@@ -5,7 +5,7 @@
   <br>
   CarlR MGUI
   <br>
-</h1>z
+</h1>
 
 <h4 align="center">A simple bot based mgui created using <a href="https://djs.org" target="_blank">Discord.JS</a>.</h4>
 
