@@ -124,6 +124,16 @@ module.exports = {
       await game.save();
       console.log(`[${getTimestamp()}][GAME PUBLISHER]: ${interaction.user.tag} has published a game using our theme ${interaction.options.getString('games')}! (Game ID: ${placeId})`)
     } catch (error) {
+      const errorEmbed = new EmbedBuilder()
+        .setTitle('Error')
+        .setDescription('An error has occurred. Please try again later.')
+        .setColor('#ff0000')
+        .setTimestamp();
+
+      interaction.editReply({
+        embeds: [errorEmbed],
+        ephemeral: true,
+      });
       console.log(error);
     }
   },

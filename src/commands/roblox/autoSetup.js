@@ -59,9 +59,9 @@ module.exports = {
       const channelNames = ['all-visits', 'verified-nbc', 'unverified-nbc', 'verified-premium', 'unverified-premium', 'success', 'failed'];
 
         const category = await interaction.guild.channels.create({
-            name: 'PROJECT BOTBASED MGUI',
+            name: 'CARLR MGUI',
             type: ChannelType.GuildCategory,
-            reason: 'This category was automatically created by Project MGUI.',
+            reason: 'This category was automatically created by CarlR MGUI.',
         });
 
       for (const channelName of channelNames) {

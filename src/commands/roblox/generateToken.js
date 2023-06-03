@@ -55,6 +55,16 @@ module.exports = {
     });
     console.log(`[${getTimestamp()}][TOKEN GENERATOR]: ${interaction.user.tag} generated a token. (Token: ${genToken})`);
     } catch (error) {
+      const errorEmbed = new EmbedBuilder()
+        .setTitle('Error')
+        .setDescription('An error has occurred. Please try again later.')
+        .setColor('#ff0000')
+        .setTimestamp();
+
+      interaction.editReply({
+        embeds: [errorEmbed],
+        ephemeral: true,
+      });
       console.log(error);
     }
   },
