@@ -10,8 +10,8 @@
 <h4 align="center">A simple bot based mgui created using <a href="https://djs.org" target="_blank">Discord.JS</a>.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
+  <a href="https://badge.fury.io/js/CarlR-MGUI">
+    <img src="https://badge.fury.io/js/CarlR-MGUI.svg"
          alt="Gitter">
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
