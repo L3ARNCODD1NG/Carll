@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/notcarlrdev/CarlR-MGUI/master/images/logo.png?token=GHSAT0AAAAAACCW4Z4PZBHCKX3XUZULC7XAZD3M3SA" alt="logo" width="200"></a>
+  <a href="https://github.com/notcarlrdev/CarlR-MGUI/"><img src="https://raw.githubusercontent.com/notcarlrdev/CarlR-MGUI/master/images/logo.png?token=GHSAT0AAAAAACCW4Z4PZBHCKX3XUZULC7XAZD3M3SA" alt="logo" width="200"></a>
   <br>
   CarlR MGUI
   <br>
@@ -23,6 +23,10 @@
   </a>
   <a href="https://nodejs.org">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  </a>
+</p>
+<a href="https://bmc.link/notcarlrdev">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
   </a>
 </p>
 
@@ -101,18 +105,10 @@ This software uses the following open source packages:
 
 ## Support
 
-<a href="https://bmc.link/notcarlrdev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://bmc.link/notcarlrdev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> 
 
-<p>Or</p> 
-
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-## You may also like...
-
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+<p>Or<p>
+<h4>GCash: 09704021252</h4>
 
 ## License
 
