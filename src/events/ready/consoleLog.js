@@ -17,8 +17,7 @@ module.exports = (client) => {
   `);
   console.log(`-----------------------------------------------------------------------------------------------------------`);
   console.log(`[INFO]: Logged in as ${client.user.tag}!`);
-  console.log(`[INFO]: Bot is in 1 servers!`);
-  console.log(`[INFO]: Loaded 14 commands!`);
+  console.log(`[INFO]: Loaded 20 commands!`);
   console.log(`[CREDITS]: This bot was made by CarlR. Need help? Email me at developer.carlr@gmail.com!`);
   console.log(`[CREDITS]: This bot was made using Node.js and Discord.js!`)
   console.log(`[REPOSITORY]: https://github.com/carlrsdc/PROJECT-BOTBASED-MGUI`)
