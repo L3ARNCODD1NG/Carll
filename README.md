@@ -1,9 +1,9 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/notcarlrdev/CarlR-MGUI/master/images/logo.png?token=GHSAT0AAAAAACCW4Z4PZBHCKX3XUZULC7XAZD3M3SA" alt="logo" width="200"></a>
   <br>
-  Markdownify
+  CarlR MGUI
   <br>
 </h1>
 
