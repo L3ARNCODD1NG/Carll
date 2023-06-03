@@ -32,7 +32,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot]([https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif](https://raw.githubusercontent.com/notcarlrdev/CarlR-MGUI/master/images/image.png?token=GHSAT0AAAAAACCW4Z4OXESALSS4BEAITZV2ZD3NCKQ))
+![screenshot](https://raw.githubusercontent.com/notcarlrdev/CarlR-MGUI/master/images/image.png?token=GHSAT0AAAAAACCW4Z4OXESALSS4BEAITZV2ZD3NCKQ)
 
 ## Key Features
 
