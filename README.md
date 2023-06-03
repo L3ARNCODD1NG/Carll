@@ -92,7 +92,7 @@ CarlR MGUI is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning,
 
 This software uses the following open source packages:
 
-- [Electron](http://djs.org/)
+- [Discord.JS](http://djs.org/)
 - [Node.js](https://nodejs.org/)
 - [Funcaptcha](https://github.com/noahcoolboy/funcaptcha)
 - [Noblox.JS](https://github.com/noblox/noblox.js)
@@ -116,7 +116,7 @@ MIT
 
 ---
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+> Website [notcarlrdev.tech](https://notcarlrdev.tech) &nbsp;&middot;&nbsp;
+> GitHub [@notcarlrdev](https://github.com/notcarlrdev) &nbsp;&middot;&nbsp;
+> Twitter [@notcarlrdev](https://twitter.com/notcarlrdev)
 
