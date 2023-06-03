@@ -1,25 +1,26 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="https://github.com/notcarlrdev/CarlR-MGUI/"><img src="https://raw.githubusercontent.com/notcarlrdev/CarlR-MGUI/master/images/logo.png?token=GHSAT0AAAAAACCW4Z4PZBHCKX3XUZULC7XAZD3M3SA" alt="logo" width="200"></a>
   <br>
-  Markdownify
+  CarlR MGUI
   <br>
 </h1>
 
 <h4 align="center">A simple bot based mgui created using <a href="https://djs.org" target="_blank">Discord.JS</a>.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/CarlR-MGUI">
-    <img src="https://badge.fury.io/js/CarlR-MGUI.svg"
-         alt="Gitter">
+ <a href="https://github.com/notcarlrdev/CarlR-MGUI/">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+ </a>
+  <a href="https://github.com/notcarlrdev/CarlR-MGUI/">
+   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
   </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
+  <a href="https://nodejs.org">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+<a href="https://bmc.link/notcarlrdev">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
   </a>
 </p>
 
@@ -32,27 +33,29 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://raw.githubusercontent.com/notcarlrdev/CarlR-MGUI/master/images/image.png?token=GHSAT0AAAAAACCW4Z4OXESALSS4BEAITZV2ZD3NCKQ)
 
 ## Key Features
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
+* Verified APIs
+  - This bot is using roblox apis and not scraping from its website.
+* Many Commands
+  - There are many commands you can use..
+* Easy to setup and use  
+* Open source
+* [Twitter](https://twitter.com/notcarlrdev) Support
+* OpenCloud Place Publisher
+* User / Account Lookup
+* Private message spammer
+* Automatic dump setup
+* Cookie refresher
+* Game lookup
+* With authentication
+  - Generate token then access to gain permission to use commands.
 * Cross platform
-  - Windows, macOS and Linux ready.
+  - Can be used in Windows, Linux, MacOS, Android, IOS.
+* Powerful Database (MongoDB)
+* Has minimal moderation commands
 
 ## How To Use
 
@@ -60,60 +63,46 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://github.com/notcarlrdev/CarlR-MGUI
 
 # Go into the repository
-$ cd electron-markdownify
+$ cd CarlR-MGUI
 
 # Install dependencies
 $ npm install
 
 # Run the app
-$ npm start
+$ node .
 ```
 
 > **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
-
-
-## Download
-
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
+> Do not remove credits or else you will face some legal lawsuit. Please be advised that copyright lawsuits are also usable in digital assets. 
 
 ## Emailware
 
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
+CarlR MGUI is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <developer.carlr@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
 
 ## Credits
 
 This software uses the following open source packages:
 
-- [Electron](http://electron.atom.io/)
+- [Discord.JS](http://djs.org/)
 - [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+- [Funcaptcha](https://github.com/noahcoolboy/funcaptcha)
+- [Noblox.JS](https://github.com/noblox/noblox.js)
+- [Axios](https://github.com/axios/axios)
+- [Roblox](https://roblox.con/)
 
-## Related
+## Future Updates
 
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
+* PROJECT WEBBASED MGUI - Webbased Version Of CarlR MGUI
 
 ## Support
 
-<a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://bmc.link/notcarlrdev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> 
 
-<p>Or</p> 
-
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-## You may also like...
-
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+<p>Or<p>
+<h4>GCash: 09704021252</h4>
 
 ## License
 
@@ -121,7 +110,7 @@ MIT
 
 ---
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+> Website [notcarlrdev.tech](https://notcarlrdev.tech) &nbsp;&middot;&nbsp;
+> GitHub [@notcarlrdev](https://github.com/notcarlrdev) &nbsp;&middot;&nbsp;
+> Twitter [@notcarlrdev](https://twitter.com/notcarlrdev)
 
