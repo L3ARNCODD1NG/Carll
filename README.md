@@ -19,7 +19,6 @@
   <a href="https://nodejs.org">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   </a>
-</p>
 <a href="https://bmc.link/notcarlrdev">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
   </a>
