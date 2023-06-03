@@ -1,0 +1,7 @@
+{
+    "testServer": "", // test discord server id
+    "clientId": "", // discord bot client id
+    "devs": [""], // developer discord id
+    "token": "", // discord bot token
+    "mongodb": "" // mongodb uri
+}
