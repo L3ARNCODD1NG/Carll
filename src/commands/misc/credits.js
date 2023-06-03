@@ -50,7 +50,7 @@ module.exports = {
     const gitlink = new ButtonBuilder()
         .setStyle(ButtonStyle.Link)
         .setLabel('GitHub Repository')
-        .setURL('https://github.com/carlrsdc/PROJECT-BOTBASED-MGUI')
+        .setURL('https://github.com/notcarlrdev/CarlR-MGUI/')
         .setEmoji('🔗');
 
     const supportlink = new ButtonBuilder()
