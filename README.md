@@ -5,13 +5,19 @@
   <br>
   CarlR MGUI
   <br>
-</h1>
+</h1>z
 
 <h4 align="center">A simple bot based mgui created using <a href="https://djs.org" target="_blank">Discord.JS</a>.</h4>
 
 <p align="center">
- [MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
+ <a href="https://github.com/notcarlrdev/CarlR-MGUI/">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+ </a>
+	
+  <a href="https://gitter.im/amitmerchant1990/electron-markdownify">
+   <img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg">
+  </a>
+	
   <a href="https://saythanks.io/to/bullredeyes@gmail.com">
       <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
   </a>
