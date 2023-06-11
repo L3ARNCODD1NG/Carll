@@ -47,12 +47,12 @@ module.exports = {
     }
 
         const embed = new EmbedBuilder()
-          .setTitle('😁 PROJECT BOTBASED MGUI list of commands')
+          .setTitle('😁 Chronics Publisher list of commands')
           .setDescription('This is the list of commands for the bot.')
           .setThumbnail(client.user.avatarURL())
-            .addFields({ name: '🔨 Moderation', value: '`ban`, `kick`, `timeout`', inline: true }) 
-            .addFields({ name: '🎮 Roblox', value: '`access`, `publish`, `setup`, `delete`, `check`, `generate`, `gamelookup`, `tutorial`, `refresh-cookie`, `login`, `sendspam`', inline: true })
-            .addFields({ name: '🔧 Misc', value: '`help`, `ping`, `uptime`, `credits`, `setrole`', inline: true })
+            .addFields({ name: '🔨 Moderation', value: '`/ban`, `/kick`, `/timeout`', inline: true }) 
+            .addFields({ name: '🎮 Roblox', value: '`/access`, `/publish`, `/gpublish`, `/setup`, `/delete`, `/check`, `/generate`, `/gamelookup`, `/tutorial`, `/refresh-cookie`, `/login`, `/sendspam`', inline: true })
+            .addFields({ name: '🔧 Misc', value: '`/help`, `/ping`, `/uptime`, `/credits`, `/accessrole`', inline: true })
             .addFields({ name: '🔗 Links', value: '[Bot Invite](https://discord.com/api/oauth2/authorize?client_id=1106966401488527440&permissions=8&scope=bot) | [Support Server](https://join.carlr.dev) | [GitHub Repository](https://github.com/carlrsdc/PROJECT-BOTBASED-MGUI)', inline: true })
           .setFooter({ text: `Requested by: ${interaction.user.tag}`, iconURL: interaction.guild.iconURL() })
             .setColor(getRandomColor())

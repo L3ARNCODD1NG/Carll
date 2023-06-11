@@ -46,7 +46,7 @@ module.exports = {
         embeds: [denied],
         ephemeral: true,
       });
-      console.log(`[${getTimestamp()}][ACCESS DENIED]: ${interaction.user.tag} tried to run the command /check but they do not have access to this command.`);
+      console.log(`[${getTimestamp()}][ACCESS DENIED]: ${interaction.user.tag} tried to run the command /setup but they do not have access to this command.`);
       return;
     }
 
@@ -108,4 +108,6 @@ module.exports = {
         required: true,
       },
     ],
+    permissionsRequired: [PermissionFlagsBits.ManageChannels],
+    botPermissions: [PermissionFlagsBits.ManageChannels],
 }

@@ -27,7 +27,7 @@ module.exports = {
       function generateToken() {
         // Random token generator algorithm
         const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
-        let token = 'CarlR-MGUI_';
+        let token = 'Chronics-Publisher_';
         for (let i = 0; i < 12; i++) {
           token += characters.charAt(Math.floor(Math.random() * characters.length));
         }

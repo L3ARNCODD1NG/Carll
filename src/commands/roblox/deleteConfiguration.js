@@ -62,7 +62,7 @@ module.exports = {
         .setDescription('We have successfully removed your configurations. Please use `/setwebhook` to set your webhooks again.')
         .setColor('#00FF00')
         .setTimestamp()
-        .setFooter({ text: 'Project MGUI - CarlR#0001'})
+        .setFooter({ text: 'Chronics Publisher'})
 
       if(!(await WebhookData.exists({ gameId: interaction.options.getString('game-id') }))) {
         interaction.editReply('You have not configured your webhooks yet. Please use `/setup` to set your webhooks.')
@@ -79,7 +79,7 @@ module.exports = {
       .setDescription('We encounter some minor error. Please contact an admin for more info. If you have, please contact CarlR#0001')
       .setColor('#FF0000')
       .setTimestamp()
-      .setFooter({ text: 'Project MGUI - CarlR#0001'})
+      .setFooter({ text: 'Chronics Publisher'})
 
       console.log(error);
       interaction.editReply({ embeds: [failedembed] })
